@@ -186,7 +186,7 @@ h1 {
 
 .content1 {
   position: absolute;
-  top: 400px;
+  top: 350px;
 }
 
 .input-group {
@@ -212,7 +212,7 @@ h1 {
 
 #attribution {
   position: absolute;
-  top: 900px;
+  top: 850px;
   width: 100%;
   padding: 0;
 }
